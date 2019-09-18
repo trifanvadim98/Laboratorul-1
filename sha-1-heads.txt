@@ -1,0 +1,20 @@
+ “C : HEAD SHA-1
+checksum”
+ “JavaScript : HEAD SHA-1
+checksum”
+ “Python : HEAD SHA-1
+checksum”
+ “PHP : HEAD SHA-1
+checksum”
+ “Java : HEAD SHA-1
+checksum”
+ “Swift : HEAD SHA-1
+checksum”
+ “Ruby : HEAD SHA-1
+checksum”
+ “Perl : HEAD SHA-1
+checksum”
+ “SQL : HEAD SHA-1
+checksum”
+ “HTML : HEAD SHA-1
+checksum”
