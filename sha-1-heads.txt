@@ -1,20 +1,20 @@
  “C : HEAD SHA-1
-checksum”
+checksum” : cf7364ea387361a086aa29f1e4c08f9ce8ffc96a refs/heads/C
  “JavaScript : HEAD SHA-1
-checksum”
+checksum”: c1d41f334caf8e45ff2eecc29063b706e685e2f5 refs/heads/JavaScript
  “Python : HEAD SHA-1
-checksum”
+checksum” : 150baccf7f64e4e874e6b344f0d4cc9a486fb3bd refs/heads/Python
  “PHP : HEAD SHA-1
-checksum”
+checksum” : 166acf80ad1af3f4639e24bddee0704bdd425f5c refs/heads/PHP
  “Java : HEAD SHA-1
-checksum”
+checksum” : af04636b65784c3e51a212828abe2f24505b45eb refs/heads/Java
  “Swift : HEAD SHA-1
-checksum”
+checksum” : 19354f932a5641fb9f4f3b180f443ec8c2bb21a1 refs/heads/Swift
  “Ruby : HEAD SHA-1
-checksum”
+checksum” : 2f62f42e0783ef14d3f2a38b41acf6fc97a7c6c3 refs/heads/Ruby
  “Perl : HEAD SHA-1
-checksum”
+checksum” : b11eca68d3ad71f8c9e120b4c21517c811c80b8b refs/heads/Perl
  “SQL : HEAD SHA-1
-checksum”
+checksum” : a666b6cd6d0ca450be747ea767b6038950364d02 refs/heads/SQL
  “HTML : HEAD SHA-1
-checksum”
+checksum” : bf21a9a8de316983cb787f59bc185cd29bb7ca56 refs/heads/HTML
